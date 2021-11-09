@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5036a60f22d8542ca830e4578804462b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - smokeParticle: {fileID: 4392870381175910774, guid: 6562db3a873684fa9b7da3aef8329d82,
+      type: 3}
+  - powerupIndicator: {fileID: 581325512028477697, guid: 9192713728996b345a6b97d02d01f3e2,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
